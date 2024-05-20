@@ -7,7 +7,7 @@
  "AdsController": {
       
     "BannerNetwork"           : "huawei",
-    "InterstitialNetwork"     : "Ironsource",
+    "InterstitialNetwork"     : "Unity",
     "NativeNetwork"           : "huawei",
     "OpenAdNetwork"           : "yandex",
    
@@ -35,10 +35,10 @@
     "Huawei_Native"           : "testy63txaom86",
     "Huawei_RewardAd"         : "testx9dtjwj8hp",
     
-    "Unity_GameID"            : "4076527",
+    "Unity_GameID"            : "5622101",
     "Unity_Banner"            : "BannerAd",
-    "Unity_InterstitialAd"    : "InterstitialAd",
-    "Unity_RewardAd"          : "rewardedVideo"
+    "Unity_InterstitialAd"    : "Interstitial_Android",
+    "Unity_RewardAd"          : "Rewarded_Android"
 
   }
 }
