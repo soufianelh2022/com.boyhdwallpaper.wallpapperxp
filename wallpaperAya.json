@@ -7,7 +7,7 @@
  "AdsController": {
       
     "BannerNetwork"           : "huawei",
-    "InterstitialNetwork"     : "Ironsource",
+    "InterstitialNetwork"     : "ironsource",
     "NativeNetwork"           : "huawei",
     "OpenAdNetwork"           : "yandex",
    
